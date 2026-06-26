@@ -8,13 +8,10 @@ Los objetivos principales de esta práctica son:
 - Manipulación de datos utilizando los métodos de arrays `map`, `filter` y `find`.
 
 ## Instrucciones de instalación y ejecución
-1. Clonar el repositorio en tu máquina local.
-2. Es necesario tener instalado [Node.js](https://nodejs.org/).
-3. Abrir una terminal y navegar hasta el directorio del proyecto.
-4. Ejecutar el archivo JavaScript con el comando:
-   ```bash
-   node app.js
-   ```
+1. Clonar el repositorio en tu máquina local o descargar los archivos.
+2. Abrir el archivo `index.html` haciendo doble clic sobre él o arrastrándolo a cualquier navegador web (Chrome, Edge, Firefox).
+3. Presionar **F12** en el teclado (o clic derecho -> Inspeccionar) para abrir las herramientas de desarrollador.
+4. Dirigirse a la pestaña **Consola** (Console) para ver los resultados de la ejecución.
 
 ## Capturas de pantalla de la consola
 ![Captura de consola](captura.png)
